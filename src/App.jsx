@@ -22,7 +22,7 @@ function App() {
           count is {count}
         </button>
         <p>
-          Hello, My name is heelatte
+          Hello, My first vercel!!!
         </p>
       </div>
       <p className="read-the-docs">
